@@ -15,5 +15,16 @@ Player_SGP/Imaginary_Hammers_SGP.ipynb
 Projection_Exports/IH_FG_OV_export.ipynb
 Projection_Exports/Imaginary_Hammers_Ottoneu_Value_calculator.ipynb
 
-### Part 4: Compare Auction Values
+### Part 4: Current Rosters
+League_Rosters/Imaginary_Hammers.ipynb
+
+## Part 5: Ottoneu Stats
+Ottoneu/Ottoneu_4by4.ipynb
+
+### Part 6: Compare Auction Values
 Auction_Value_Comparisons/Imaginary_Hammers_compare.ipynb
+
+## Part 7: Replacement Level Evaluation
+???
+
+### Part 7: Profit
