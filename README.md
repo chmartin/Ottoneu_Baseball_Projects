@@ -24,9 +24,10 @@ Ottoneu/Ottoneu_4by4.ipynb
 ## Part 7: Replacement Level Evaluation
 Replacement_level/Imaginary_Hammers_replacement.ipynb
 
-### Part 6: Compare Auction Values
+### Part 8: Compare Auction Values
 Auction_Value_Comparisons/Imaginary_Hammers_compare.ipynb
 
-
+### Part 9: Keeper targets
+Keeper_Evaluation/Imaginary_Hammers_Keeper_Targets.ipynb
 
 ### Part 7: Profit
