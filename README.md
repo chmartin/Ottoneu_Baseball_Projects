@@ -18,16 +18,22 @@ Projection_Exports/Imaginary_Hammers_Ottoneu_Value_calculator.ipynb
 ### Part 4: Current Rosters
 League_Rosters/Imaginary_Hammers.ipynb
 
-## Part 5: Ottoneu Stats
+### Part 5: Ottoneu Stats
 Ottoneu/Ottoneu_4by4.ipynb
 
-## Part 7: Replacement Level Evaluation
+### Part 6: Replacement Level Evaluation
 Replacement_level/Imaginary_Hammers_replacement.ipynb
 
-### Part 8: Compare Auction Values
+### Part 7: Compare Auction Values
 Auction_Value_Comparisons/Imaginary_Hammers_compare.ipynb
 
-### Part 9: Keeper targets
-Keeper_Evaluation/Imaginary_Hammers_Keeper_Targets.ipynb
+### Part 8: Keeper targets
+Keeper_Evaluation/Keeper_Evaluation.ipynb
 
-### Part 7: Profit
+### Part 9: Profit
+
+## Project 2: Player Projection Studies
+
+### Part 1: CBS Catcher tiers 1.0
+Player_Projection_Studies/Feb1_2026_CBS_Tiers/C/CBS_Tiers_Feb1_2026.ipynb
+
