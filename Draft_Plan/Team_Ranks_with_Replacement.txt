@@ -1,0 +1,247 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+SP 
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+IP 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+TOTAL_SGP_Val_mySGP
+---------------------------------------------------
+Target TOTAL_SGP_Val_mySGP: 500.0
+Rank with Replacement Players: 1.0
+Largely Indistinguishables with Replacement Players: 432.85192297602134
+Delta: -67.14807702397866
+---------------------------------------------------
+IP_mySGP_Team
+---------------------------------------------------
+Target IP_mySGP_Team: 1500.0
+Rank with Replacement Players: 6.5
+Largely Indistinguishables with Replacement Players: 1499.9999999999998
+Delta: -2.2737367544323206e-13
+---------------------------------------------------
+IP_FGAV_Team
+---------------------------------------------------
+Target IP_FGAV_Team: 1500.0
+Rank with Replacement Players: 8.0
+Largely Indistinguishables with Replacement Players: 1521.4511808195257
+Delta: 21.45118081952569
+---------------------------------------------------
+Salary
+---------------------------------------------------
+Target Salary: 380.0
+Rank with Replacement Players: 9.0
+Largely Indistinguishables with Replacement Players: 282.0
+Delta: -98.0
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SO 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+SO_mySGP_Team
+---------------------------------------------------
+Target SO_mySGP_Team: 1634.481105636577
+Rank with Replacement Players: 1.0
+Largely Indistinguishables with Replacement Players: 1663.1677031839495
+Delta: 28.686597547372457
+---------------------------------------------------
+SO_SGP_Val_mySGP_Team
+---------------------------------------------------
+Target SO_SGP_Val_mySGP_Team: 200.0
+Rank with Replacement Players: 1.0
+Largely Indistinguishables with Replacement Players: 209.54400557591617
+Delta: 9.544005575916174
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HR9 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+HR9_Team
+---------------------------------------------------
+Target HR9_Team: 0.9894539115424572
+Rank with Replacement Players: 10.0
+Largely Indistinguishables with Replacement Players: 0.7859903360937764
+Delta: -0.20346357544868077
+---------------------------------------------------
+HR9_SGP_Val_mySGP_Team
+---------------------------------------------------
+Target HR9_SGP_Val_mySGP_Team: 200.0
+Rank with Replacement Players: 1.0
+Largely Indistinguishables with Replacement Players: 553.3241193626569
+Delta: 353.3241193626569
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ERA 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+ERA_Team
+---------------------------------------------------
+Target ERA_Team: 3.3765511551106724
+Rank with Replacement Players: 12.0
+Largely Indistinguishables with Replacement Players: 3.222948596819544
+Delta: -0.15360255829112823
+---------------------------------------------------
+ERA_SGP_Val_mySGP_Team
+---------------------------------------------------
+Target ERA_SGP_Val_mySGP_Team: 200.0
+Rank with Replacement Players: 1.0
+Largely Indistinguishables with Replacement Players: 307.03078890802675
+Delta: 107.03078890802675
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WHIP 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+WHIP_Team
+---------------------------------------------------
+Target WHIP_Team: 1.128832633601803
+Rank with Replacement Players: 12.0
+Largely Indistinguishables with Replacement Players: 1.1157750605227783
+Delta: -0.013057573079024776
+---------------------------------------------------
+WHIP_SGP_Val_mySGP_Team
+---------------------------------------------------
+Target WHIP_SGP_Val_mySGP_Team: 200.0
+Rank with Replacement Players: 1.0
+Largely Indistinguishables with Replacement Players: 304.8978197443655
+Delta: 104.8978197443655
++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Util 
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+G 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+TOTAL_SGP_Val_mySGP
+---------------------------------------------------
+Target TOTAL_SGP_Val_mySGP: 500.0
+Rank with Replacement Players: 1.0
+Largely Indistinguishables with Replacement Players: 432.85192297602134
+Delta: -67.14807702397866
+---------------------------------------------------
+G_mySGP_Team
+---------------------------------------------------
+Target G_mySGP_Team: 1944.0
+Rank with Replacement Players: 6.5
+Largely Indistinguishables with Replacement Players: 1944.0
+Delta: 0.0
+---------------------------------------------------
+PA_mySGP_Team
+---------------------------------------------------
+Index(['Target Pts', 'R_mySGP_Team', 'HR_mySGP_Team', 'OBP_Team', 'SLG_Team',
+       'G_mySGP_Team', 'G_FGAV_Team', 'TOTAL_SGP_Val_mySGP',
+       'R_SGP_Val_mySGP_Team', 'HR_SGP_Val_mySGP_Team',
+       'OBP_SGP_Val_mySGP_Team', 'SLG_SGP_Val_mySGP_Team', 'Salary',
+       'Hitter Pitcher'],
+      dtype='str')
+---------------------------------------------------
+PA_FGAV_Team
+---------------------------------------------------
+Index(['Target Pts', 'R_mySGP_Team', 'HR_mySGP_Team', 'OBP_Team', 'SLG_Team',
+       'G_mySGP_Team', 'G_FGAV_Team', 'TOTAL_SGP_Val_mySGP',
+       'R_SGP_Val_mySGP_Team', 'HR_SGP_Val_mySGP_Team',
+       'OBP_SGP_Val_mySGP_Team', 'SLG_SGP_Val_mySGP_Team', 'Salary',
+       'Hitter Pitcher'],
+      dtype='str')
+---------------------------------------------------
+Salary
+---------------------------------------------------
+Target Salary: 380.0
+Rank with Replacement Players: 9.0
+Largely Indistinguishables with Replacement Players: 282.0
+Delta: -98.0
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+R 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+R_mySGP_Team
+---------------------------------------------------
+Target R_mySGP_Team: 1073.3416660079588
+Rank with Replacement Players: 6.0
+Largely Indistinguishables with Replacement Players: 1021.1990895898199
+Delta: -52.1425764181389
+---------------------------------------------------
+R_SGP_Val_mySGP_Team
+---------------------------------------------------
+Target R_SGP_Val_mySGP_Team: 200.0
+Rank with Replacement Players: 9.0
+Largely Indistinguishables with Replacement Players: 136.51598981631088
+Delta: -63.48401018368912
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HR 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+HR_mySGP_Team
+---------------------------------------------------
+Target HR_mySGP_Team: 323.0227703382613
+Rank with Replacement Players: 12.0
+Largely Indistinguishables with Replacement Players: 263.05901464534594
+Delta: -59.963755692915356
+---------------------------------------------------
+HR_SGP_Val_mySGP_Team
+---------------------------------------------------
+Target HR_SGP_Val_mySGP_Team: 200.0
+Rank with Replacement Players: 12.0
+Largely Indistinguishables with Replacement Players: 107.05104129684216
+Delta: -92.94895870315784
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OBP 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+OBP_Team
+---------------------------------------------------
+Target OBP_Team: 0.3397449152807073
+Rank with Replacement Players: 3.0
+Largely Indistinguishables with Replacement Players: 0.3299590698908803
+Delta: -0.00978584538982702
+---------------------------------------------------
+OBP_SGP_Val_mySGP_Team
+---------------------------------------------------
+Target OBP_SGP_Val_mySGP_Team: 200.0
+Rank with Replacement Players: 2.0
+Largely Indistinguishables with Replacement Players: 234.52215008236402
+Delta: 34.52215008236402
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SLG 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------
+SLG_Team
+---------------------------------------------------
+Target SLG_Team: 0.45854447277673094
+Rank with Replacement Players: 11.0
+Largely Indistinguishables with Replacement Players: 0.4163746847262746
+Delta: -0.04216978805045635
+---------------------------------------------------
+SLG_SGP_Val_mySGP_Team
+---------------------------------------------------
+Target SLG_SGP_Val_mySGP_Team: 200.0
+Rank with Replacement Players: 10.0
+Largely Indistinguishables with Replacement Players: 149.06096277239487
+Delta: -50.93903722760513
