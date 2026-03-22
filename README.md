@@ -30,6 +30,9 @@ Auction_Value_Comparisons/Imaginary_Hammers_compare.ipynb
 ### Part 8: Keeper targets
 Keeper_Evaluation/Keeper_Evaluation.ipynb
 
+### Part 9: Draft plan
+Draft_Plan/Imaginary_Hammers.ipynb
+
 ### Part 9: Profit
 
 ## Project 2: Player Projection Studies
